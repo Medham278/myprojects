@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554229266 source:d:\medha\cfiles\srijan project\home_management\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
